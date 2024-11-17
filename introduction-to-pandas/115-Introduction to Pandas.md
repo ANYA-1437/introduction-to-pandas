@@ -10,8 +10,8 @@
 
 ## What is Pandas?
 
-* Officially stands for **Python Data Analysis Library**.
-* It is an open-source Python library.
+* Officially stands for **Panel Data**.
+* It is an open-source Python library for data analysis.
 * It is a tool used by data scientists to:
   * read,
   * write,
